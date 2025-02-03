@@ -1,1 +1,2 @@
 # FlowersProject
+The jasmine flower is a fragrant and delicate bloom known for its sweet scent and beauty. It belongs to the *Oleaceae* family and thrives in warm climates. Often symbolizing love, purity, and tranquility, jasmine is widely used in perfumes, teas, and essential oils. Its white or yellow petals bloom at night, releasing a soothing aroma. In many cultures, jasmine holds spiritual and medicinal significance, believed to promote relaxation and emotional well-being.
